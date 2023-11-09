@@ -1,7 +1,4 @@
-# balaji12
-...
-# 123b
-<!DOCTYPE html>
+# balaji bday
 <html>
 <head>
     <title>BDAY</title>
